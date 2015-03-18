@@ -1,0 +1,1 @@
+If you are in a CMD, and you don't have admin privileges yet, this program will attempt to restart CMD with admin privileges in the current directory.
